@@ -1,4 +1,4 @@
-# Content Moderation-test
+# Content Moderation Test
 
 Content Moderation Test
 - Google Cloud Vision API - SafeSearch
